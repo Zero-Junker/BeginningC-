@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\katel\source\repos\Project1\Project1\Source.cpp(107,20): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Project1.vcxproj -> C:\Users\katel\source\repos\Project1\Debug\Project1.exe
